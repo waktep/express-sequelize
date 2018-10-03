@@ -8,3 +8,4 @@ to migrate the database
 ``` bash
 $ sequelize db:migrate
 ```
+done installing nodejs
